@@ -26,7 +26,7 @@ Modeling was conducted in several phases using only the training dataset. We foc
 - Modeling specificationn testing ([3_Model_Specification_Testing](<pranavrd/erdos-uncreatives/Modelling/3_Model_Specification_Testing.ipynb>)): We tested whether interaction terms or polynomial features improved model fit. 
 - Interpretability ([4_Linear_Model_Interpretation](<pranavrd/erdos-uncreatives/Modelling/4_Linear_Model_Interpretation.ipynb>)): We examined standardized coefficiants from the Lasso models and visualized marginal effects of key features. This helped interpret how changes in inputs such as posting time and keywords influence engagement.
 - Non-linear modeling ([5_Decision_Trees](<ppranavrd/erdos-uncreatives/Modelling/5_Decision_Trees.ipynb>)): To explore non-linear relationships, we trained a decision tree regressor. 
-- Final hypothesis testing ([6_Final_Hypothesis_Testing](<pranavrd/erdos-uncreatives/Modelling/6_Final_Hypothesis_Testing.ipynb>)): We conducted targeted follow-up tests on specific model predictors to confirm that their relationships with engagement outcomes were statistically robust.
+- Final hypothesis testing ([6_Final_Hypothesis_Testing](<pranavrd/erdos-uncreatives/Modelling/6_Final_Hypothesis_Testing.ipynb>)): We conducted targeted follow-up tests on the testing set on specific model predictors to confirm that their relationships with engagement outcomes were statistically robust.
 
 Best model:
 Most predictive features: 
@@ -38,10 +38,10 @@ The stakeholders of our project include organizations or individuals who would b
 ## Key Preformance Indicators
 Key performance indicators are used in business to judge performance and progress toward specific, measurable goals. In our context, a KPI is a measure of the success of our project. 
 
-Our KPI will be the accuracy of the predictive success of our model on new post data. 
+Our KPI will be the ability for influencers to post using our suggestions based on hypothesis testing to improve views and engagements 
 
 ## Takeaways
-- Strategic use of keywords and posting time can significantly influence viewers engagement with post.
+- Strategic use of keyword, hashtags, and posting time can significantly influence viewers engagement with post.
 - Public scraping platforms like APIFY provide accessible routes to collect meaningful social media data
 
 ## [Presentation link]()
