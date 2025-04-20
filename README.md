@@ -38,7 +38,7 @@ The stakeholders of our project include organizations or individuals who would b
 ## Key Preformance Indicators
 Key performance indicators are used in business to judge performance and progress toward specific, measurable goals. In our context, a KPI is a measure of the success of our project. 
 
-Our KPI will be the ability for influencers to post using our suggestions based on hypothesis testing to improve views and engagements 
+Our KPI will be the ability for influencers to post using our suggestions based on hypothesis testing to improve views and engagement. 
 
 ## Takeaways
 - Strategic use of keyword, hashtags, and posting time can significantly influence viewers engagement with post.
