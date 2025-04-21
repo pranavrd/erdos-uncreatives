@@ -28,17 +28,10 @@ Modeling was conducted in several phases using only the training dataset. We foc
 - Non-linear modeling ([5_Decision_Trees](<ppranavrd/erdos-uncreatives/Modelling/5_Decision_Trees.ipynb>)): To explore non-linear relationships, we trained a decision tree regressor. 
 - Final hypothesis testing ([6_Final_Hypothesis_Testing](<pranavrd/erdos-uncreatives/Modelling/6_Final_Hypothesis_Testing.ipynb>)): We conducted targeted follow-up tests on the testing set on specific model predictors to confirm that their relationships with engagement outcomes were statistically robust.
 
-Best model:
-Most predictive features: 
-Model performance: 
 
 ## Stakeholders
 The stakeholders of our project include organizations or individuals who would be interested in utilizing our results. This includes social media influencers or businesses with a social media presence  who would like to optimize the performance of their own posts, social media managers who would like to optimize the performance of the posts of their clientele, and social media analytics platforms like Hootsuite or Sprout Social who may be interested in providing this kind of analysis as a service to their customers. 
 
-## Key Preformance Indicators
-Key performance indicators are used in business to judge performance and progress toward specific, measurable goals. In our context, a KPI is a measure of the success of our project. 
-
-Our KPI will be the ability for influencers to post using our suggestions based on hypothesis testing to improve views and engagement. 
 
 ## Takeaways
 - Strategic use of keyword, hashtags, and posting time can significantly influence viewers engagement with post.
